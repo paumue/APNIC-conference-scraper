@@ -7,7 +7,7 @@ The data is then used to create an interactive dashboard to explore the impact d
 
 This work was done as part of the King's Undergraduate Research Fellowship project **Mapping the Digital Silk Road** supervised by Dr. Elisa Oreglia and Dr. Ashwin Mathew.
 
-Special thanks to @finwarman for being a web scraping wizzard and supporting me.
+Special thanks to @finwarman for being a web scraping wizzard and letting me reuse some of his code.
 
 ## Setup
 
