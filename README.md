@@ -4,7 +4,7 @@ This repository contains a Python web scraper to get the attendee lists of the b
 
 The data is then used to create an interactive dashboard to explore the impact different countries and organisations have on the APNIC policy process.
 
-This work was done for the King's Undergraduate Research Fellowship project **Mapping the Digital Silk Road** supervised by Dr. Elisa Oreglia and Dr. Ashwin Mathew.
+This work was done as part of the King's Undergraduate Research Fellowship project **Mapping the Digital Silk Road** supervised by Dr. Elisa Oreglia and Dr. Ashwin Mathew.
 
 Special thanks to @finwarman for being a web scraping wizzard and supporting me.
 
