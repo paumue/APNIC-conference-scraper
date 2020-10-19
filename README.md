@@ -2,7 +2,8 @@
 
 This repository contains a Python web scraper to get the attendee lists of the bi-yearly APNIC conferences and a Jupyter Notebook to clean and standardise the data.
 
-The data is then used to create an interactive dashboard to explore the impact different countries and organisations have on the APNIC policy process.
+The data is then used to create an interactive dashboard to explore the impact different countries and organisations have on the APNIC policy process. The tool can be found [here](https://datastudio.google.com/reporting/db0e734e-6882-432c-81f1-c87e17bedc34
+).
 
 This work was done as part of the King's Undergraduate Research Fellowship project **Mapping the Digital Silk Road** supervised by Dr. Elisa Oreglia and Dr. Ashwin Mathew.
 
